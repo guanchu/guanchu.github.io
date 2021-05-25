@@ -1,3 +1,3 @@
-# hurenjun.github.io
-Personal Website of Renjun Hu please visit
-https://hurenjun.github.io/
+# guanchu.github.io
+Personal Website of Chu Guan please visit
+https://guanchu.github.io/
